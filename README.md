@@ -86,15 +86,20 @@ npm run dev
 ## 🖼️ Prints do Projeto
 
 ### Página inicial
-![home](./prints/home.png)
+![image](https://github.com/user-attachments/assets/1bec3bcd-8429-483d-9ee3-3c6926dc6259)
+
 
 ### Tela do player
-![player](./prints/player1.png)
+![image](https://github.com/user-attachments/assets/dbb27a52-44f8-46c0-9e0e-718c86d49bfc)
+
+
 
 ### Outra música tocando
-![player2](./prints/player2.png)
+![image](https://github.com/user-attachments/assets/7aa2b4e3-e3a7-45d3-abeb-5bf8e699a01f)
+
 
 ### Página de músicas
-![songs](./prints/songs.png)
+![image](https://github.com/user-attachments/assets/e6b85d5b-6736-4034-81dc-d8c76b18456a)
+
 
 ---
